@@ -1,5 +1,8 @@
 # Table of Contents (Excerpt)
 
+> This is a partial structure overview.  
+> The full table of contents is included in the complete book.
+
 ## Part 1 — The New Engineering Reality
 
 **Chapter 1: The New Engineering Reality**
