@@ -1,6 +1,8 @@
 # Engineering in the Age of AI — Sampler
 
 This repository is a technical preview of *Engineering in the Age of AI*.
+> It contains a partial preview.  
+> It is intended for evaluation, not full coverage.
 
 The book focuses on designing AI systems in production environments, where traditional engineering assumptions break.
 
