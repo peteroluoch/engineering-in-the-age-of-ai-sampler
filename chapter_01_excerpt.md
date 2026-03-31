@@ -7,7 +7,7 @@ Software engineering is undergoing a fundamental transformation. The metric of s
 
 ## The Evolution of the Developer Role
 
-In the pre-2023 era, developers were valued primarily as individual contributors focused on manual coding, syntax memorisation, and implementation speed. Success was often measured by volume—lines of code delivered.
+In the pre-2023 era, developers were valued primarily as individual contributors focused on manual coding, syntax memorisation, and implementation speed. Success was often measured by volume - lines of code delivered.
 
 By 2026, this paradigm has been inverted. AI tools now handle the repetitive implementation and boilerplate code, effectively removing typing as the primary bottleneck. This liberation allows the engineer to elevate their focus to higher-order activities: system design, architectural oversight, and strategic direction. The value proposition of an AI Architect resides in their capacity to orchestrate high-quality, secure, and habitable systems across Software-as-a-Service (SaaS) and private cloud environments. Individually managed Application Programming Interfaces (APIs) are no longer the focus; the system is the unit of delivery.
 
