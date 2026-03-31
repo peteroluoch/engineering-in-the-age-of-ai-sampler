@@ -28,7 +28,7 @@ The goal is no longer to be a proficient typist, but to be an astute director an
 In early 2025, a Series B fintech startup publicly celebrated a "10x velocity increase" after adopting AI-assisted development across its 30-person engineering team.
 
 ### The Failure
-Within four months, the celebration turned to crisis. The team had shipped 47 new features in a single quarter—triple their historical output. However, the cumulative technical debt from unreviewed AI-generated code resulted in a cascading production failure during a peak trading period. The root cause was a race condition in a shared state manager that the AI had generated identically across three separate microservices.
+Within four months, the celebration turned to crisis. The team had shipped 47 new features in a single quarter - triple their historical output. However, the cumulative technical debt from unreviewed AI-generated code resulted in a cascading production failure during a peak trading period. The root cause was a race condition in a shared state manager that the AI had generated identically across three separate microservices.
 
 ### The Consequence
 The platform was offline for 11 hours during market hours. The company faced regulatory scrutiny, lost two enterprise clients, and was forced to hire a dedicated "AI Debt Recovery" team of six engineers whose sole job was to audit and remediate the AI-generated codebase.
