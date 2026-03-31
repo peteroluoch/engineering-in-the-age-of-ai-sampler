@@ -34,7 +34,7 @@ Within four months, the celebration turned to crisis. The team had shipped 47 ne
 The platform was offline for 11 hours during market hours. The company faced regulatory scrutiny, lost two enterprise clients, and was forced to hire a dedicated "AI Debt Recovery" team of six engineers whose sole job was to audit and remediate the AI-generated codebase.
 
 ### The Architectural Lesson
-Velocity without governance is a systemic liability. The startup measured success by output volume, not by architectural integrity. An AI Architect would have implemented a Mandatory Review Gate: no AI-generated code enters the main branch without passing an automated security scan, a performance profile, and a human architectural review. Speed is only valuable when it is controlled. Furthermore, the Architect recognises that "AI-First" velocity creates a Vulnerability Debt—a backlog of subtly degraded code that must be proactively managed before it reaches a critical mass of non-determinism.
+Velocity without governance is a systemic liability. The startup measured success by output volume, not by architectural integrity. An AI Architect would have implemented a Mandatory Review Gate: no AI-generated code enters the main branch without passing an automated security scan, a performance profile, and a human architectural review. Speed is only valuable when it is controlled. Furthermore, the Architect recognises that "AI-First" velocity creates a Vulnerability Debt - a backlog of subtly degraded code that must be proactively managed before it reaches a critical mass of non-determinism.
 
 ## Pattern: The Sovereignty Bridge
 
