@@ -1,4 +1,4 @@
-# Engineering in the Age of AI — Sampler
+# Engineering in the Age of AI - Sampler
 
 This repository is a technical preview of *Engineering in the Age of AI*.
 > It contains a partial preview.  
